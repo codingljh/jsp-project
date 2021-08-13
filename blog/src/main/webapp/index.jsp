@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
-<p>---------------</p>
+<p>Made by fhjdfhfdhjdhjhjdhjdjdf</p>
 <div class="sticky">✨ ＤＡＩＬＹ ＢＬＯＧ ✨</div>
 
 </body>
